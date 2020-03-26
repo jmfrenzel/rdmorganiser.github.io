@@ -8,7 +8,31 @@ lang: en
 News
 ====
 
-On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [twitter](https://www.twitter.com/rdmorganiser).
+On this page, we briefly summarize our activities. For up-to-date information please subscribe to your [mailing list](https://www.listserv.dfn.de/sympa/info/rdmo) or follow us on [Twitter](https://www.twitter.com/rdmorganiser).
+
+February 2020 
+-------------
+This month we released [RDMO Release 1.0.3.](https://github.com/rdmorganiser/rdmo/releases/tag/1.0.3) It contains improvements and minor bug fixes. New API filter attributes are provided to make interfaces more flexible, e.g. making it easier to export a set of answers and then assign the corresponding questions to it, since questions can now be localized via the API using the "attribute" parameter. Furthermore, RDMO now uses "pytest", which can also be used to [test the RDMO app](https://github.com/rdmorganiser/rdmo/blob/master/docs/testing.md). In January Ulrike Wuttke and Olaf Michaelis presented at the [workshop of the DHd-AG data centers on 23/24.01.2020 in Frankfurt an Main](http://dig-hum.de/aktuelles/einladung-zum-workshop-der-dhd-ag-datenzentren-zum-thema-interoperabilit%C3%A4t-am-2324012020) the efforts made by the RDMO-project to make it Datacite compatible. The paper "From Project to Sustainable Tool for Research Data Management: The Example of Research Data Management Organiser" was accepted for the [109th German Librarians' Day](https://bibliothekartag2020.de) (26-29 May 2020, Hannover).
+
+January 2020 
+------------
+The focus of the meanwhile 3rd RDMO Community Meeting on 24.02.2020 at the Leibniz Institute for Astrophysics Potsdam (AIP) will be the adoption of the [RDMO Manifesto](https://rdmorganiser.github.io/docs/RDMO-Manifest-122019.pdf) and the foundation of the RDMO Community, especially the constitution of the *Steering Group* and the *Software Group*. In addition, there will be short spotlights from the community of RDMO users. Link to the [program](https://rdmorganiser.github.io/workshop022020_programm/). During the [RDA De-Meeting](https://www.rda-deutschland.de/events/tagung-2020) following the RDMO-Community Meeting, we will offer an RDMO workshop in the morning of 25.02.2020. Registration is now possible.
+
+December 2019
+-------------
+No news. 
+
+November 2019
+-------------
+This month we have made some updates and changes to the RDMO training materials. You can find training materials such as video tutorials or the RDMO questionnaire on the RDMO website at [Documentation](https://rdmorganiser.github.io/dokumentation/). Further tutorials, FAQs etc. for different target groups (administrators*, users*) can be found on the Wiki [forschungsdaten.org](https://www.forschungsdaten.org/index.php/RDMO). The 3rd User Meeting will take place on 24.02.2020 in Potsdam at the AIP. There the constitution of the future organisation of RDMO is planned. 
+
+October 2019
+------------
+RDMO has made the jump to version 1. The latest version contains two important changes concerning the project membership of users. Firstly, this can now be controlled via the API and secondly, users can now remove themselves from a project at any time if they are not the last owner of this project. The report of the 2nd RDMO User Meeting on 07.10.2019 in Darmstadt at the ULB is [online](https://www.forschungsdaten.org/index.php/Zweites_Community-Treffen). We also presented RDMO at the Open Access Days in Hannover and the RDMO training materials at a workshop in Hildesheim ([slides online on Zenodo](http://doi.org/10.5281/zenodo.3520839)). 
+
+September 2019
+--------------
+On 27.09.2019 the semi-annual meeting of the RDMO project took place in Berlin. There were intensive discussions on the topic of sustainability and the further development of RDMO. In addition, the final details for the next RDMO User Meeting in Darmstadt were clarified.
 
 August 2019
 -----------

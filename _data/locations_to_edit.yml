@@ -124,6 +124,12 @@
   lon:     9.9699716
   color:   gray
 
+- name:    Universität Hamburg
+  contact: Kai Wörner
+  lat:     53.566298
+  lon:     9.984469
+  color:   gray
+
 - name:    Universitäts- und Landesbibliothek Münster
   contact: Marc Schutzeichel
   url:     https://www.ulb.uni-muenster.de
@@ -206,7 +212,7 @@
   contact: Jürgen Rohrwild
   lat:     49.597901
   lon:     11.004571
-  color:   gray
+  color:   blue
 
 - name:    Helmholtz-Zentrum Berlin HZB
   contact: Heike Görzig
@@ -225,3 +231,29 @@
   lat:     52.401111
   lon:     13.011944
   color:   gray
+
+- name: Max Rubner-Institut
+  contact: Dr. Lara Frommherz
+  lat: 49.013579
+  lon: 8.426245
+  color: gray
+
+- name: Ludwig-Maximilians-Universität München
+  contact: Herr Martin Spenger
+  lat: 48.150833
+  lon: 11.580278
+  color: gray
+
+- name: SFB 1270 ELAINE "Elektrisch Aktive Implantate"
+  url: https://rdmo.elaine.uni-rostock.de
+  contact: Frank Krüger
+  lat: 54.088133
+  lon: 12.133373
+  color: blue
+
+- name: Goethe Universität Frankfurt am Main
+  url: https://rdmo.server.uni-frankfurt.de
+  contact: Nina Dworschak
+  lat: 50.127778
+  lon: 8.666667
+  color: blue

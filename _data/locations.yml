@@ -20,11 +20,17 @@
     lon: 6.406
     name: "Forschungszentrum J\xFClich"
     url: https://dmp.fz-juelich.de
--   color: gray
+-   color: blue
     contact: "J\xFCrgen Rohrwild"
     lat: 49.597901
     lon: 11.004571
     name: "Friedrich-Alexander-Universit\xE4t Erlangen N\xFCrnberg (FAU)"
+-   color: blue
+    contact: Nina Dworschak
+    lat: 50.127778
+    lon: 8.666667
+    name: "Goethe Universit\xE4t Frankfurt am Main"
+    url: https://rdmo.server.uni-frankfurt.de
 -   color: gray
     contact: Timo Gnadt, Claudia Engelhardt
     lat: 51.5400097
@@ -66,6 +72,16 @@
     lon: 11.2771503
     name: "Leibniz-Institut f\xFCr Pflanzengenetik und Kulturpflanzenforschung (IPK)"
     url: http://www.ipk-gatersleben.de/
+-   color: gray
+    contact: Herr Martin Spenger
+    lat: 48.150833
+    lon: 11.580278
+    name: "Ludwig-Maximilians-Universit\xE4t M\xFCnchen"
+-   color: gray
+    contact: Dr. Lara Frommherz
+    lat: 49.013579
+    lon: 8.426245
+    name: Max Rubner-Institut
 -   color: blue
     contact: Robin Rothe
     lat: 50.9246806
@@ -83,12 +99,12 @@
     lat: 50.781177
     lon: 6.065603
     name: RTWH Aachen
--   color: gray
-    contact: Johannes Frenzel
-    lat: 51.4439
-    lon: 7.261572
-    name: "Ruhr Universit\xE4t Bochum"
-    url: http://www.ruhr-uni-bochum.de
+-   color: blue
+    contact: "Frank Kr\xFCger"
+    lat: 54.088133
+    lon: 12.133373
+    name: SFB 1270 ELAINE "Elektrisch Aktive Implantate"
+    url: https://rdmo.elaine.uni-rostock.de
 -   color: gray
     contact: Johannes Sperling
     lat: 51.028183
@@ -127,6 +143,11 @@
     lon: 6.7899203
     name: "Universit\xE4t D\xFCsseldorf (FoDaKo)"
     url: http://www.fodako.de
+-   color: gray
+    contact: "Kai W\xF6rner"
+    lat: 53.566298
+    lon: 9.984469
+    name: "Universit\xE4t Hamburg"
 -   color: gray
     contact: Annette Strauch
     lat: 52.1600497
@@ -173,6 +194,13 @@
     lon: 7.620459
     name: "Universit\xE4ts- und Landesbibliothek M\xFCnster"
     url: https://www.ulb.uni-muenster.de
+-   color: blue
+    contact: "Johannes Frenzel (Ruhr Universit\xE4t Bochum)"
+    lat: 51.4439
+    lon: 7.261572
+    name: "Universit\xE4tsallianz Ruhr (Ruhr-Universit\xE4t Bochum, Universit\xE4\
+        t Duisburg-Essen, Technische Universit\xE4t Dortmund)"
+    url: http://rdmo.uaruhr.de
 -   color: gray
     name: "bwFDM - Koordiniertes Forschungsdatenmanagement in Baden-W\xFCrttemberg"
     url: http://bwfdm.scc.kit.edu

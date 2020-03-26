@@ -8,23 +8,27 @@ lang: de
 Workshops
 =========
 
-Das RDMO RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere, lokale Treffen mit den Nutzenden in einer bestimmten Region veranstaltet.
+Das RDMO-Team hat in den letzten Jahren eine Reihe von Workshops, sowie kleinere, lokale Treffen mit den Nutzenden in einer bestimmten Region veranstaltet.
 
 
 Zukünftige Workshops und Treffen:
 ---------------------------------
 
-* 27.09.2019 4. Projekttreffen
-* 07.10.2019 RDMO Anwender Workshop [Info](https://rdmorganiser.github.io/workshop2019)
+* Ende September Abschluss-Workshop
+
 
 Bisherige Workshops und Treffen:
 --------------------------------
 
+* 24.02.2020 3. RDMO-Community-Treffen, Gründungstreffen als Open Source Projekt, [Programm](https://rdmorganiser.github.io/workshop022020_programm), [Bericht](https://www.forschungsdaten.org/index.php/Drittes_Community-Treffen)
+* 03.12.2019 Lokaler Workshop in Bonn an der Max Weber Stiftung
+* 07.10.2019 2. Community-Treffen [Programm+Slides](https://rdmorganiser.github.io/workshop2019), [Bericht](https://www.forschungsdaten.org/index.php/Zweites_Community-Treffen)
+* 27.09.2019 4. Projekttreffen
 * 21.02.2019 3. Projekttreffen
 * 15.11.2018 Workshop über DMPs bei dem Open Science Forum in Luxemburg
 * 21.09.2018 2. Projekttreffen
 * 13.09.2018 Lokaler Workshop in Dresden
-* 03.09.2018 Community-Treffen in Uni Duisburg-Essen [Bericht](http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen)
+* 03.09.2018 1. Community-Treffen in Uni Duisburg-Essen [Bericht](http://www.forschungsdaten.org/index.php/Erstes_Community-Treffen)
 * 17./18.07.2018 Lokaler Workshop in Bochum und Siegen
 * 12.07.2018 Lokaler Workshop in Darmstadt
 * 11.06.2018 Lokaler Workshop in der UB Braunschweig
