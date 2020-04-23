@@ -23,7 +23,8 @@ function init_table() {
     });
 }
 
-function open_marker(id) {
+function open_marker(id, coords) {
+    map.setView(coords, 9);
     for (var i in markers) {
         if (markers[i].id == id) {
             window.scrollTo({
@@ -38,13 +39,11 @@ function open_marker(id) {
 function slugify(text) {
     var rx = /[0-9a-zßäöü\-]/g;
     return text.toString().toLowerCase()
-        .replace(/[\s\/'"`]/g, '-')
+        .replace(/[\s\/'`]/g, '-')
         .match(rx)
         .join('')
         .replace(/-{2,}/g, '-');
 }
-
-// in js call: #centre-de-calcul-d-in2p3
 
 function test_markers() {
     table_ids = [];
