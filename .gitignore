@@ -7,8 +7,12 @@ vendor
 *~
 *-
 *.swp
+*.swo
 .DS_Store
 
+.ruby-version
 .jekyll-metadata
 Gemfile.lock
 .imdone/
+
+.on-save.json
