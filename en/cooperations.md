@@ -70,7 +70,9 @@ The project needs feedback from disciplines and IT infrastructure representative
 <input class="tabfilter" type="search" data-column="all" placeholder="Filter">
 <table id="partners" class="tablesorter">
     <thead>
-        <th class="name"></th><th></th><th></th>
+        <th class="name"></th>
+        <th class="contact"></th>
+        <th class="instance"></th>
     </thead>
     <tbody>
         {% for location in site.data.locations %}
@@ -101,7 +103,8 @@ The project needs feedback from disciplines and IT infrastructure representative
                             .on("click", function(){
                                 open_marker(
                                     "{{ location.name | slugify }}",
-                                    [{{ location.lat }}, {{ location.lon }}]
+                                    [{{ location.lat }}, {{ location.lon }}],
+                                    "{{ location.description | size }}"
                                 );
                             });
                         </script>
