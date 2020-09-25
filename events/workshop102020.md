@@ -5,8 +5,7 @@ key: workshop102020
 lang: de
 ---
 
-RDMO Anwender-Treffen
-=========
+# RDMO Community-Treffen
 
 Organisiert von der RDMO AG gemeinsam mit dem RDMO-Projekt
 
